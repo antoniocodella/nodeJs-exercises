@@ -2,4 +2,4 @@ function sum(a, b) {
   console.log(a + b);
 }
 
-module.exports = sum;
+sum(3, 5);
